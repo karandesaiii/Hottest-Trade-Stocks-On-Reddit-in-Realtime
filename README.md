@@ -2,7 +2,9 @@
 
 This notebook finds the most popular stocks (tickers) on any reddit discussion
 
-Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on)
+Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on). 
+
+This enables the trader to pick stocks sooner, that is, when the stock's momentum is picking up. 
 
 It also enables the user to view comments which talk about a particular stock sorted by the 'Best' comments first. (Reddit's BEST category evaluates comments based on upvotes, downvotes and replies - It's an overall quality score of the comment) 
 
