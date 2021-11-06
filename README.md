@@ -1,13 +1,10 @@
 # Find & analyze popular stocks on reddit using Python
 
 This notebook ranks finds the most popular stocks (tickers) on any reddit discussion
-Similar to www.wsbdaily.com but - 
 
-While wsbdaily.com describes last 24 hours, I describe based on user-specified number of hours to look back.
+Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on)
 
-Ex : It finds most popular stocks in last 3 hours or last any number of hours as specified by you.
-
-Also helps to view all comments which talk about a particular stock
+It also enables the user to view comments which talk about a particular stock sorted by the 'Best' comments first. (Reddit's BEST category evaluates comments based on upvotes, downvotes and replies - It's an overall quality score of the comment) 
 
 # Requirements
 Python 3.7+ should work ideally.
