@@ -1,4 +1,4 @@
-# Find & analyze popular stocks on reddit in real-time
+# Find popular stocks on reddit in real-time
 
 Helps the trader to pick stocks sooner, that is, when the stock's momentum is picking up. 
 
@@ -6,6 +6,7 @@ This notebook finds the most popular stocks (tickers) on any reddit discussion
 
 Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on). 
 
+Any subreddit/discussion can be used such as wallstreetbets daily discussions, r/stocks, r/investing etc.
 
 It also enables the user to view comments which talk about a particular stock sorted by the 'Best' comments first. (Reddit's BEST category evaluates comments based on upvotes, downvotes and replies - It's an overall quality score of the comment) 
 
