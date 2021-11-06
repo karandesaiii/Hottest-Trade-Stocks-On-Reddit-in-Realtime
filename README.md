@@ -1,4 +1,4 @@
-# Find-popular-stocks-using-Python-and-Reddit
+# Find & analyze popular stocks on reddit using Python
 
 This notebook ranks finds the most popular stocks (tickers) on any reddit discussion
 Similar to www.wsbdaily.com but - 
