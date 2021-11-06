@@ -12,6 +12,8 @@ Also helps to view all comments which talk about a particular stock
 # Requirements
 Python 3.7+ should work ideally.
 
+Reddit API credentials - Follow this blog post to get them: https://www.jcchouinard.com/get-reddit-api-credentials-with-praw/
+
 praw 
 
 pandas 
