@@ -12,6 +12,8 @@ It also enables the user to view comments which talk about a particular stock so
 # Requirements
 Python 3.7+ should work ideally.
 
+Jupyter Notebook
+
 Reddit API credentials - Follow this blog post to get them: https://www.jcchouinard.com/get-reddit-api-credentials-with-praw/
 
 praw 
