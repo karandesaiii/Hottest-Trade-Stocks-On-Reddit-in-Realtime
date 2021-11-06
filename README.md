@@ -1,4 +1,4 @@
-# Find & analyze popular stocks on reddit using Python
+# Find & analyze popular stocks on reddit in real-time
 
 Helps the trader to pick stocks sooner, that is, when the stock's momentum is picking up. 
 
