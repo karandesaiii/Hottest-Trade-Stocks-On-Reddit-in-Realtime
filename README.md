@@ -11,6 +11,7 @@ Also helps to view all comments which talk about a particular stock
 
 # Requirements
 Python 3.7+ should work ideally.
+
 praw 
 
 pandas 
