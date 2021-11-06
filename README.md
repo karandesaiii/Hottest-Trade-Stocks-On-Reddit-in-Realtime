@@ -1,6 +1,6 @@
 # Find & analyze popular stocks on reddit using Python
 
-This notebook ranks finds the most popular stocks (tickers) on any reddit discussion
+This notebook finds the most popular stocks (tickers) on any reddit discussion
 
 Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on)
 
