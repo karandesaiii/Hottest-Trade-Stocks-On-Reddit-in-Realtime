@@ -1,4 +1,4 @@
-# Find popular stocks on reddit in real-time
+# Detect popular stocks on reddit in real-time
 
 Enables discovery of stocks with recent increase in momentum and displays best stock-specific comments.   
 
