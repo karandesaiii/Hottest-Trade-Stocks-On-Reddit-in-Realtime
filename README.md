@@ -2,7 +2,7 @@
 
 Enables discovery of stocks with recent increase in momentum and displays the best stock-specific comments.   
 
-This notebook finds the most popular stocks (tickers) on any reddit discussion
+Detects the most popular stocks (tickers) on any subreddit's discussion thread.
 
 Similar to www.wsbdaily.com but wsbdaily.com analyzes last 24 hours, this code analyzes user-specified number of hours. (Example: last 8 hours, last 6 hours and so on). 
 
