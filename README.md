@@ -1,6 +1,6 @@
 # Find popular stocks on reddit in real-time
 
-Enables discovery and discussions of stocks with recent increase in momentum. 
+Enables discovery of stocks with recent increase in momentum and displays best stock-specific comments.   
 
 This notebook finds the most popular stocks (tickers) on any reddit discussion
 
