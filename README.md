@@ -1,6 +1,6 @@
 # Detect popular stocks on reddit in real-time
 
-Enables discovery of stocks with recent increase in momentum and displays the best stock-specific comments.   
+Discover stocks with popularity/momentum increase in realtime and read the best stock-specific comments.
 
 Detects the most popular stocks (tickers) on any subreddit's discussion thread.
 
