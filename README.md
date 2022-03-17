@@ -1,4 +1,4 @@
-# Detect popular stocks on reddit in real-time
+# The only open-source solution that finds popular stocks on reddit in realtime
 
 Discover stocks with popularity/momentum increase in realtime and read the best stock-specific comments.
 
